@@ -1,0 +1,146 @@
+body
+{
+	background: #b6b6b6;
+           opacity: 0.7;
+    filter: alpha(opacity=70);
+	background: #f0f0f0 url(../images/lock.jpg) ;
+      
+	/*margin: 0;
+	padding: 0;
+	font-family: arial;*/
+}
+
+#login_form
+{
+	width: 300px;
+	background: #f0f0f0 url(../imag/lock.jpg) repeat-x 0 0;
+	border: 1px solid black;
+	margin: 250px auto 0;
+	padding: 1em;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+#admin_login
+{
+	width: 89px;
+	background: #f0f0f0 url(../pics/lock.jpg) repeat-x 0 0;
+	border: 1px solid black;
+	margin: 20px auto 0;
+	padding: 1em;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+#create_dataset
+{
+	width: 340px;
+	border: 1px solid white;
+	margin: 50px auto 0;
+	/*margin-top: 150px auto 0;*/
+	padding: 1em;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+#login_button
+{
+	width: 40px;
+	border: 1px solid white;
+	margin: 50px auto 0;
+	/*margin-top: 150px auto 0;*/
+	padding: 1em;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+h1,h2,h3,h4,h5
+{
+	margin-top: 0;
+	font-family: arial black, arial;
+	text-align: center;
+}
+
+input[type=text], input[type=password]
+{
+	display: block;
+	margin: 0 0 1em 0;
+	width: 275px;
+	border: 5px;
+	border: 1px solid black;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	padding: 1em;
+}
+
+/*input[type=text_area]
+{
+	display: block;
+	margin: 0 0 1em 0;
+	width: 200px;
+	border: 5px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	padding: 1em;
+}*/
+
+input[type=submit], form a
+{
+	border: none;
+	margin-right: 1em;
+	padding: 6px;
+	text-decoration: none;
+	font-size: 12px;
+	-moz-border-radius-radius: 4px;
+	background: #348075;
+	color: white;
+	box-shadow: 0 1px 0 white;
+	-moz-box-shadow: 0 1px 0 white;
+	-webkit-box-shadow: 0 1px 0 white;
+}
+
+input[type=submit]:hover
+{
+	background: #287368;
+	cursor: pointer;
+}
+
+input[type=button], form a
+{
+	border: none;
+	margin-right: 1em;
+	padding: 6px;
+	text-decoration: none;
+	font-size: 12px;
+	-moz-border-radius-radius: 4px;
+	background: #348075;
+	color: white;
+	box-shadow: 0 1px 0 white;
+	-moz-box-shadow: 0 1px 0 white;
+	-webkit-box-shadow: 0 1px 0 white;
+}
+
+input[type=button]:hover
+{
+	background: #287368;
+	cursor: pointer;
+}
+
+error
+{
+	color: #393939;
+	font-size: 15px;
+}
+
+fieldset
+{
+	width: 300px;
+	margin: auto;
+	margin-bottom: 2em;
+	display: block;
+}
+
+h1
+{
+	text-shadow: 0 1px 0 white;
+}

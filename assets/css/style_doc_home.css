@@ -1,0 +1,115 @@
+h4{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+    color: black;
+}
+a{
+    margin-top: 20px;
+    color: brown;
+}
+#block{
+    height: 200px;
+    width: 850px;
+}
+#nav a { color : brown; text-decoration: none; }
+#nav a:hover {color: red; }
+#display{
+    height: 50px;
+    width: 350px;
+    font-size:20px;
+    margin-left: 2px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    color: brown;
+    float: left;
+    background-color: buttonhighlight;
+}
+.button {
+    
+-webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+  
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #9DC45F;
+  padding: 10px 120px 10px 120px;
+  text-decoration: none;
+  border: 2px #b4d97a solid;
+}
+
+.btn:hover {
+  background: #b4d97a;
+  text-decoration: none;
+}
+ .buttony {
+    
+-webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+  
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #9DC45F;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  border: 2px #b4d97a solid;
+}
+
+
+ 
+
+#display1{
+    height: 50px;
+    width: 350px;
+    font-size:20px;
+    margin-left: 5px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    color: brown;
+    float:right;
+    background-color: buttonhighlight;
+}
+.doc_profile{
+    margin-left: 100px;
+    margin-top: 20px;
+        
+}
+.cntr_img{
+    margin-left: 250px;
+}
+
+#header {
+    background-color:#9DC45F;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:650px;
+    width:300px;
+    float:left;
+    padding:5px; 
+   color: black;
+}
+#section {
+   /* height: 800px;*/
+    width:950px;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:#9DC45F;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}

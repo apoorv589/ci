@@ -1,0 +1,43 @@
+h2 {
+    color: green;
+    text-align: center;
+   padding-top: 50px;
+   padding-left: 80px;
+    
+}
+h3 {
+    color: green;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 80px;
+    
+}
+input[type=text] {
+    width: 40%;
+  
+    margin-left: 420;
+    padding: 12px 20px;
+    
+    box-sizing: border-box;
+}
+input[type=password] {
+    width: 40%;
+     margin-left: 420;
+    padding: 12px 20px;
+    
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 40%;
+     margin-left: 420;
+    padding: 12px 20px;
+    
+    box-sizing: border-box;
+}
+input[type=date] {
+    width: 40%;
+     margin-left: 420;
+    padding: 12px 20px;
+    
+    box-sizing: border-box;
+}
